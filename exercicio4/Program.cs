@@ -18,7 +18,7 @@ class Consumo
         return distanciaPercorrida / combustivelConsumido;
     }
 }
-class program
+class Program
 {
     static void Main (string[] args)
     {
